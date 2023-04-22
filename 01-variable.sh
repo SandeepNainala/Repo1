@@ -5,3 +5,4 @@ echo a = $a
 echo name = ${name}
 
 DATE=$(date +%F)
+echo Todat date is {$date}
