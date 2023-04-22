@@ -1,5 +1,5 @@
-a = 10
-name = devops
+a=10
+name=devops
 
 echo a = $a
-echo name =${name}
+echo name = ${name}
